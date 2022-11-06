@@ -26,4 +26,4 @@ Vertical Scroll Div.  Preview At Code Pen ⬇⬇⬇
         </div>
 
     </div>
- <script async defer src="//buttons.github.io/buttons.js"></script>
+ <script async defer src="https://buttons.github.io/buttons.js"></script>
